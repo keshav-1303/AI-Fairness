@@ -33,6 +33,7 @@ To develop a structured framework for:
 * Simpler models (e.g., LeNet-5) struggled more with subtle feature variations.
 * Bias was observed across both overrepresented and underrepresented classes.
 * Fairness trade-offs exist between precision, recall, and group fairness metrics.
+* Any one metric is not sufficient to measure biasness across various aspects, so a framework of all combined will work well. 
 
 ## 👨‍💻 Team
 

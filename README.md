@@ -37,7 +37,7 @@ To develop a structured framework for:
 
 ## Team
 
-* Keshav Lohani, Goransh Barde, Darshan Vanjara, Trilok Meena, Aman Raj
+* Keshav Lohani(Me), Goransh Barde, Darshan Vanjara, Trilok Meena, Aman Raj
   Supervised by [**Dr. K.P. Singh**](https://profile.iiita.ac.in/kpsingh/), IIIT Allahabad.
 
 
